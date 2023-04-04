@@ -1,6 +1,6 @@
 name: Test-Project
 on: workflow_dispatch
-  jobs:
+jobs:
     test:
       runs-on: ubuntu-latest
       steps:
